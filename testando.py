@@ -1,0 +1,1 @@
+# enquanto escrevo agora o aquivo está verde, sinal de q n tá salvo, ent vou dá commit
