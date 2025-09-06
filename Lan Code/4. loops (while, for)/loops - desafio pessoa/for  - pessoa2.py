@@ -7,4 +7,4 @@ pessoa = {
     'idade_chave':{idade},
     'cidade_chave':{cidade}}
 
-print(f'seu nom é {[nome]}')
+print(f'seu nome é {[nome]}')
