@@ -14,7 +14,7 @@ class Aluno(Pessoa):
     def __str__(self):
         return f'esse tal de {self.nome} tem {self.idade} anos e está no {self.serie}° ano'
     
-print(Aluno('adrielly', 18, 3))
+print(Aluno('nome', 20, 3))
 
 class Funcionario(Pessoa):
     def __init__(self, nome, idade, cargo):
